@@ -1,0 +1,12 @@
+{
+  "name": "node-api-lambda-reverse-string",
+  "description": "AWS API gateway compatible AWS Lambda module for reversing a string",
+  "version": "0.1.0",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:amv/node-api-lambda-reverse-string.git"
+  },
+  "author": "Antti Vähäkotamäki (github.com/amv)",
+  "license": "MIT"
+ }
