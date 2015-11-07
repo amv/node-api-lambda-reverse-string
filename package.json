@@ -1,5 +1,5 @@
 {
-  "name": "node-api-lambda-reverse-string",
+  "name": "api-lambda-reverse-string",
   "description": "AWS API gateway compatible AWS Lambda module for reversing a string",
   "version": "0.1.0",
   "dependencies": {},
