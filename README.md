@@ -21,11 +21,9 @@ Expects *_context_* to have a function called "done":
         }
     }
 
-On success calls "done" with a null error and a JSON struct:
+On success calls "done" with a null error and the reversed string:
 
-    {
-        "string" : "gnirts ycnaf ym"
-    }
+    "gnirts ycnaf ym"
 
 On error calls "done" with an error:
 
